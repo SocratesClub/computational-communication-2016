@@ -1,6 +1,9 @@
 # computational-communication
 《计算传播学导论》
 
+周三 第9-10节 仙Ⅱ-307
+
+
 | week          | topic         | note  |
 | ------------- |:-------------:| -----:|
 |1             | 第一部分：      课程简介  + github	    |  https://github.com/nju-teaching/computational-communication-2016/      |
